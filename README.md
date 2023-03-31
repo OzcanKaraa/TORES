@@ -33,7 +33,7 @@
   <li>Toplantı saatleri çakışmasını önler.</li>
 </ul>
 
-<h2><b>TORES</b>YAZILIM EKIBIMIMIZ</h2>
+<h2><b>TORES</b> YAZILIM EKIBI :</h2>
 <hr><br>
 <ul>
    <li><a href="https://github.com/OzcanKaraa">Log Kayıtları Paneli - Özcan KARA</a></li>
