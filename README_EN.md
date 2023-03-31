@@ -21,13 +21,13 @@
 <p>Thank you to our software team who contributed to the successful development of TORES.</p>
 <h3>TORES Developer Team</h3>
 <ul>
-  <li><a href="https://github.com/cptmfs">Team Leader - Muhammed Ferit SIMSEK</a></li>
-   <li><a href="https://github.com/OzcanKaraa">Log Data Panel Responsible - Ozcan KARA</a></li>
-  <li><a href="https://github.com/Aleyna7">Admin Panel Responsible - Aleyna OZ</a></li>
-  <li><a href="https://github.com/IlkerKaplan">User Panel Responsible - Ilker KAPLAN</a></li>
-  <li><a href="https://github.com/NrgsK">Reservation Request Panel Responsible - Nergis KETENCI</a></li>
-  <li><a href="https://github.com/Nesibe93">Meeting Room Panel Responsible - Nesibe KOSANOGLU</a></li>
-  <li><a href="https://github.com/ozdenur">Login Panel Responsible - Ozdenur KOYUNCU</a></li>
+   <li><a href="https://github.com/OzcanKaraa">Log Data Panel  - Ozcan KARA</a></li>
+  <li><a href="https://github.com/cptmfs">Project Management - Muhammed Ferit SIMSEK</a></li>
+   <li><a href="https://github.com/NrgsK">Reservation Request Panel- Nergis KETENCI</a></li>
+   <li><a href="https://github.com/Nesibe93">Meeting Room Panel  - Nesibe KOSANOGLU</a></li>
+  <li><a href="https://github.com/Aleyna7">Admin Panel - Aleyna OZ</a></li>
+  <li><a href="https://github.com/IlkerKaplan">User Panel  - Ilker KAPLAN</a></li>
+  <li><a href="https://github.com/ozdenur">Login Panel  - Ozdenur KOYUNCU</a></li>
 </ul>
 
 ![Resim1](https://user-images.githubusercontent.com/83764485/228959829-9dbce6cd-024a-4518-bcef-6481e1cd6ea2.png)
