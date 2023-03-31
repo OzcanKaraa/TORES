@@ -35,13 +35,13 @@
 <h3>Tores Geliştirici Ekibi</h3>
 
 <ul>
-  <li><a href="https://github.com/cptmfs">Takım Lideri - Muhammed Ferit ŞİMŞEK</a></li>
-  <li><a href="https://github.com/Aleyna7">Admin Paneli Sorumlusu - Aleyna ÖZ</a></li>
-  <li><a href="https://github.com/IlkerKaplan">Kullanıcı Paneli Sorumlusu - İlker KAPLAN</a></li>
-  <li><a href="https://github.com/NrgsK">Rezervasyon İstek Paneli Sorumlusu - Nergis KETENCİ</a></li>
-  <li><a href="https://github.com/Nesibe93">Toplantı Odaları Paneli Sorumlusu - Nesibe KOSANOĞLU</a></li>
-  <li><a href="https://github.com/OzcanKaraa">Log Kayıtları Paneli Sorumlusu - Özcan KARA</a></li>
-  <li><a href="https://github.com/ozdenur">Login Panel Sorumlusu - Özdenur KOYUNCU</a></li>
+   <li><a href="https://github.com/OzcanKaraa">Log Kayıtları Paneli - Özcan KARA</a></li>
+  <li><a href="https://github.com/cptmfs">Project Management- Muhammed Ferit ŞİMŞEK</a></li>
+  <li><a href="https://github.com/Aleyna7">Admin Paneli  - Aleyna ÖZ</a></li>
+  <li><a href="https://github.com/IlkerKaplan">Kullanıcı Paneli  - İlker KAPLAN</a></li>
+  <li><a href="https://github.com/NrgsK">Rezervasyon İstek Paneli  - Nergis KETENCİ</a></li>
+  <li><a href="https://github.com/Nesibe93">Toplantı Odaları Paneli  - Nesibe KOSANOĞLU</a></li>
+  <li><a href="https://github.com/ozdenur">Login Panel  - Özdenur KOYUNCU</a></li>
 </ul>
 
 ![Resim1](https://user-images.githubusercontent.com/83764485/228959829-9dbce6cd-024a-4518-bcef-6481e1cd6ea2.png)
