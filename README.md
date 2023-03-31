@@ -1,5 +1,5 @@
 <h1>TORES - Toplantı Odaları Rezervasyon Sistemi</h1>
-
+<hr>
 <p>TORES, NOVAS şirketindeki 10 toplantı odasının özelliklerini ve uygunluk durumlarını takip etmek ve çalışanların kolayca toplantı rezervasyonları yapmalarını sağlamak için tasarlanmış bir otomasyon sistemidir.</p>
 
 <p>TORES, C# dilinde yazılmıştır ve Windows Form ortamında çalışır. Projenin temel amacı, çalışanların toplantı odaları için rezervasyon yaparken karşılaştıkları zorlukları azaltmak ve süreci daha akıcı hale getirmektir.</p>
@@ -16,9 +16,10 @@
 </p>
 <p>TORES'in Proje yönetimi sırasında Clickup üzerinden Agile(Scrum) yazılım geliştirme metodolojisi kullanılması bu projenin düzenli ve verimli bir şekilde yürütülmesini sağladı.</p>
 <p>TORES, NOVAS şirketindeki toplantı odaları için kullanışlı bir otomasyon sistemidir. Hem çalışanlar hem de yöneticiler için kolay ve verimli bir şekilde çalışır. </p>
+<p>Git Branch oluşturarak formlar üzerinde dilediğimiz değişikliklikler yapabildik.Git Merge ile projenin son haline getirdik.</p>
 
 <h2>Projenin temel özellikleri şunlardır: </h2>
-
+<hr>
 
 <ul>
   <li>Çalışanlar toplantı odaları için kolayca rezervasyon yapabilirler.</li>
