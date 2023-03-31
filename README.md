@@ -17,9 +17,9 @@
 <p>TORES'in Proje yönetimi sırasında Clickup üzerinden Agile(Scrum) yazılım geliştirme metodolojisi kullanılması bu projenin düzenli ve verimli bir şekilde yürütülmesini sağladı.</p>
 <p>TORES, NOVAS şirketindeki toplantı odaları için kullanışlı bir otomasyon sistemidir. Hem çalışanlar hem de yöneticiler için kolay ve verimli bir şekilde çalışır. </p>
 <p>Git Branch oluşturarak formlar üzerinde dilediğimiz değişikliklikler yapabildik.Git Merge ile projenin son haline getirdik.</p>
-
+<hr><br>
 <h2>Projenin temel özellikleri şunlardır: </h2>
-<hr>
+<hr><br>
 
 <ul>
   <li>Çalışanlar toplantı odaları için kolayca rezervasyon yapabilirler.</li>
@@ -34,7 +34,7 @@
 <p>TORES'in başarılı bir şekilde geliştirilmesinde emeği geçen yazılım ekibimize teşekkür ederim.</p>
 
 <h3>Tores Geliştirici Ekibi</h3>
-
+<hr><br>
 <ul>
    <li><a href="https://github.com/OzcanKaraa">Log Kayıtları Paneli - Özcan KARA</a></li>
   <li><a href="https://github.com/cptmfs">Project Management- Muhammed Ferit ŞİMŞEK</a></li>
@@ -44,6 +44,7 @@
   <li><a href="https://github.com/IlkerKaplan">Kullanıcı Paneli  - İlker KAPLAN</a></li>
   <li><a href="https://github.com/ozdenur">Login Panel  - Özdenur KOYUNCU</a></li>
 </ul>
+<hr><br>
 
 ![Resim1](https://user-images.githubusercontent.com/83764485/228959829-9dbce6cd-024a-4518-bcef-6481e1cd6ea2.png)
 ![Resim2](https://user-images.githubusercontent.com/83764485/228959837-18413edb-5b96-4a09-8084-cda6132c0e7a.png)
