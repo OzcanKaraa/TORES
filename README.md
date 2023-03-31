@@ -37,10 +37,10 @@
 <ul>
    <li><a href="https://github.com/OzcanKaraa">Log Kayıtları Paneli - Özcan KARA</a></li>
   <li><a href="https://github.com/cptmfs">Project Management- Muhammed Ferit ŞİMŞEK</a></li>
+   <li><a href="https://github.com/NrgsK">Rezervasyon İstek Paneli  - Nergis KETENCİ</a></li>
+    <li><a href="https://github.com/Nesibe93">Toplantı Odaları Paneli  - Nesibe KOSANOĞLU</a></li>
   <li><a href="https://github.com/Aleyna7">Admin Paneli  - Aleyna ÖZ</a></li>
   <li><a href="https://github.com/IlkerKaplan">Kullanıcı Paneli  - İlker KAPLAN</a></li>
-  <li><a href="https://github.com/NrgsK">Rezervasyon İstek Paneli  - Nergis KETENCİ</a></li>
-  <li><a href="https://github.com/Nesibe93">Toplantı Odaları Paneli  - Nesibe KOSANOĞLU</a></li>
   <li><a href="https://github.com/ozdenur">Login Panel  - Özdenur KOYUNCU</a></li>
 </ul>
 
